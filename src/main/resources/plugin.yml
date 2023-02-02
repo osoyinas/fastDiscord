@@ -1,0 +1,4 @@
+name: PluginDevelopment
+version: '${project.version}'
+main: plugindevelopment.plugindevelopment.PluginDevelopment
+api-version: 1.19

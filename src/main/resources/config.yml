@@ -1,0 +1,8 @@
+#insert the bot token
+#token: asdasdasdasdadaxc131asd123123asd
+token:
+#insert the channel ID
+#channel_id: 1234568567567567345
+channel_id:
+#If you want to send the ip of the server in server.properties or your public ip
+custom-ip: false
